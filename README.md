@@ -1,4 +1,4 @@
-# Retail Store Sample App - GitOps with EKS Auto Mode
+# Retail Store Sample App - GitOps with EKS Auto Mode.
 
 ![Banner](./docs/images/banner.png)
 
